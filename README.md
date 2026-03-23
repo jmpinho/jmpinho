@@ -1,7 +1,7 @@
 <h1 align="center">E aí? Eu sou o João 🪄</h1>
 
 <p align="center">
-  Desenvolvedor em formação • Front-end • Criativo • Em constante evolução  
+  Desenvolvedor em formação • Front-end  • Em constante evolução  
 </p>
 
 <p align="center">
