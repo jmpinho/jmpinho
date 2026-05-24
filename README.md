@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://preview.redd.it/herta-official-sticker-set-v0-jdsj7rkdi3de1.png?width=320&crop=smart&auto=webp&s=5a36b2fe5723377d15909d17dfc0dc70fc2a6102" 
+    src="_-removebg-preview.png" 
     width="200"
     alt="Imagem decorativa"
   />
