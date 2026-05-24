@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/joão-mateus-pinho-195121279">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:joaomateuspinho11@gmail.com">
+  <a href="mailto:joaopinho.dev.br@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
 </p>
@@ -36,10 +36,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ---
@@ -47,10 +44,10 @@
 <h2>📌 Sobre meu trabalho</h2>
 
 <p>
-🎯 Busco criar experiências digitais limpas, funcionais e intuitivas.  
-💡 Valorizo design claro, código organizado e aprendizado contínuo.  
-🔧 Atualmente focado em evoluir no desenvolvimento web e fundamentos de programação.  
-📚 Sempre explorando novas tecnologias, frameworks e boas práticas.  
+Busco criar experiências digitais limpas, funcionais e intuitivas.  <br>
+Valorizo design claro, código organizado e aprendizado contínuo.  <br>
+Atualmente focado em evoluir no desenvolvimento web e fundamentos de programação.  <br>
+Sempre explorando novas tecnologias, frameworks e boas práticas.  
 </p>
 
 ---
@@ -64,12 +61,6 @@
   <li>Lógica de programação e estruturas de dados</li>
   <li>Desenvolvimento de sistemas e jogos</li>
 </ul>
-
----
-
-## 📊 Status
-
-![Streak](https://streak-stats.demolab.com?user=jmpinho&theme=dark&hide_border=false)
 
 ---
 
