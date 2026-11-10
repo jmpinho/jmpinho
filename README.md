@@ -88,7 +88,7 @@ Passei mais de **3 anos no suporte técnico da Alterdata Software** 🛠️, o q
 <tr>
 <td width="33%" valign="top" align="center">
 
-### ♠️ Synapse
+### ♠️ [Synapse](https://github.com/jmpinho/Synapse)
 **TCC · App de produtividade**
 
 Pomodoro, Kanban, Matriz de Eisenhower, progresso e cronograma em calendário mensal. Tudo pensado para organizar a vida de quem estuda. 📚
