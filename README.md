@@ -124,10 +124,6 @@ Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de br
 ## 📊 Ato V — Os números do espetáculo
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=jmpinho&show_icons=true&hide_border=false&bg_color=14122E&title_color=E63950&text_color=F2F0FA&icon_color=FFB347&border_color=9D95E6" alt="Estatísticas" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmpinho&layout=compact&hide_border=false&bg_color=14122E&title_color=E63950&text_color=F2F0FA&border_color=9D95E6" alt="Linguagens" />
-
 <br>
 
 <img src="https://streak-stats.demolab.com?user=jmpinho&background=14122E&ring=E63950&fire=FFB347&currStreakNum=F2F0FA&sideNums=F2F0FA&currStreakLabel=E63950&sideLabels=9D95E6&dates=9D95E6&stroke=9D95E6&border=9D95E6" alt="Sequência de contribuições" />
