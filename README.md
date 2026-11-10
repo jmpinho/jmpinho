@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,55:3B2F7A,100:14122E&height=230&section=header&text=João%20Mateus&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=✦%20Dev%20Front-end%20✦%20rumo%20ao%20Full%20Stack%20✦&descSize=20&descAlignY=62" alt="Cabeçalho" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E63950&center=true&vCenter=true&width=640&height=50&lines=Bem-vindo(a)+ao+meu+palco!+%F0%9F%8E%AD;Transformando+problemas+em+interfaces+divertidas+%E2%9C%A8;Front-end+hoje%2C+Full+Stack+amanh%C3%A3+%F0%9F%9A%80;Porque+programar+tamb%C3%A9m+pode+ser+uma+festa+%F0%9F%8E%89" alt="Digitando..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E63950&center=true&vCenter=true&width=640&height=50&lines=Bem-vindo(a)+ao+meu+palco!+%F0%9F%8E%AD;Transformando+problemas+em+interfaces+euforicas+%E2%9C%A8;Front-end+hoje%2C+Full+Stack+amanh%C3%A3+%F0%9F%9A%80;Porque+programar+tamb%C3%A9m+pode+ser+uma+festa+%F0%9F%8E%89" alt="Digitando..." />
 
 <br>
 
