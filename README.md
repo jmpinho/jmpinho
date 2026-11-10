@@ -2,17 +2,21 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FD8,50:B57EDC,100:FFD166&height=230&section=header&text=João%20Mateus&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=✦%20Dev%20Front-end%20✦%20rumo%20ao%20Full%20Stack%20✦&descSize=20&descAlignY=62" alt="Cabeçalho" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,55:3B2F7A,100:14122E&height=230&section=header&text=João%20Mateus&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=✦%20Dev%20Front-end%20✦%20rumo%20ao%20Full%20Stack%20✦&descSize=20&descAlignY=62" alt="Cabeçalho" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF8FD8&center=true&vCenter=true&width=640&height=50&lines=Bem-vindo(a)+ao+meu+palco!+%F0%9F%8E%AD;Transformando+problemas+em+interfaces+divertidas+%E2%9C%A8;Front-end+hoje%2C+Full+Stack+amanh%C3%A3+%F0%9F%9A%80;Porque+programar+tamb%C3%A9m+pode+ser+uma+festa+%F0%9F%8E%89" alt="Digitando..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E63950&center=true&vCenter=true&width=640&height=50&lines=Bem-vindo(a)+ao+meu+palco!+%F0%9F%8E%AD;Transformando+problemas+em+interfaces+divertidas+%E2%9C%A8;Front-end+hoje%2C+Full+Stack+amanh%C3%A3+%F0%9F%9A%80;Porque+programar+tamb%C3%A9m+pode+ser+uma+festa+%F0%9F%8E%89" alt="Digitando..." />
+
+<br>
+
+<img src="./aha.png" alt="Aha is amazing!" width="210" />
 
 <br>
 
 ♠️ ♥️ ♣️ ♦️ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; 🎪 &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ♦️ ♣️ ♥️ ♠️
 
-<a href="https://joaomateuspinho.vercel.app"><img src="https://img.shields.io/badge/✨_Meu_Portfólio-FF8FD8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
-<a href="https://linkedin.com/in/joao-mateus-pinho"><img src="https://img.shields.io/badge/💌_LinkedIn-B57EDC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-FFD166?style=for-the-badge&logoColor=white&labelColor=FFD166&color=FFD166" alt="Formação">
+<a href="https://joaomateuspinho.vercel.app"><img src="https://img.shields.io/badge/✨_Meu_Portfólio-E63950?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+<a href="https://linkedin.com/in/joao-mateus-pinho"><img src="https://img.shields.io/badge/💌_LinkedIn-9D95E6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-FFB347?style=for-the-badge&logoColor=white&labelColor=FFB347&color=FFB347" alt="Formação">
 
 </div>
 
@@ -121,12 +125,12 @@ Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de br
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=jmpinho&show_icons=true&hide_border=false&bg_color=1A0B2E&title_color=FF8FD8&text_color=F8E1FF&icon_color=FFD166&border_color=B57EDC" alt="Estatísticas" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmpinho&layout=compact&hide_border=false&bg_color=1A0B2E&title_color=FF8FD8&text_color=F8E1FF&border_color=B57EDC" alt="Linguagens" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=jmpinho&show_icons=true&hide_border=false&bg_color=14122E&title_color=E63950&text_color=F2F0FA&icon_color=FFB347&border_color=9D95E6" alt="Estatísticas" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmpinho&layout=compact&hide_border=false&bg_color=14122E&title_color=E63950&text_color=F2F0FA&border_color=9D95E6" alt="Linguagens" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=jmpinho&background=1A0B2E&ring=FF8FD8&fire=FFD166&currStreakNum=F8E1FF&sideNums=F8E1FF&currStreakLabel=FF8FD8&sideLabels=B57EDC&dates=B57EDC&stroke=B57EDC&border=B57EDC" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=jmpinho&background=14122E&ring=E63950&fire=FFB347&currStreakNum=F2F0FA&sideNums=F2F0FA&currStreakLabel=E63950&sideLabels=9D95E6&dates=9D95E6&stroke=9D95E6&border=9D95E6" alt="Sequência de contribuições" />
 
 </div>
 
@@ -138,13 +142,15 @@ Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de br
 
 Tem uma vaga, uma ideia ou só quer trocar uma ideia sobre código? **Bora fazer esse espetáculo juntos!** 🎪
 
-<a href="https://linkedin.com/in/joao-mateus-pinho"><img src="https://img.shields.io/badge/Falar_comigo_no_LinkedIn-FF8FD8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://joaomateuspinho.vercel.app"><img src="https://img.shields.io/badge/Ver_portfólio-B57EDC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+<a href="https://linkedin.com/in/joao-mateus-pinho"><img src="https://img.shields.io/badge/Falar_comigo_no_LinkedIn-E63950?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://joaomateuspinho.vercel.app"><img src="https://img.shields.io/badge/Ver_portfólio-9D95E6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
 
 <br>
 
 *✦ Que a euforia nunca saia do seu código! ✦*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD166,50:B57EDC,100:FF8FD8&height=130&section=footer" alt="Rodapé" width="100%"/>
+<sub>Aha e Honkai: Star Rail © HoYoverse · arte de fã, sem fins comerciais</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14122E,50:3B2F7A,100:C8102E&height=130&section=footer" alt="Rodapé" width="100%"/>
 
 </div>
