@@ -26,9 +26,9 @@
 
 > *"A vida é um grande palco, e eu vim pra fazer o código render aplausos!"* 🎉
 
-Olá! Sou o **João Mateus**, bacharel em **Ciência da Computação** pela **Unifeso** 🎓 e apaixonado por criar interfaces que transformam problemas reais em algo **simples, bonito e divertido de usar**.
+Olá! Sou o **João Mateus**, bacharel em **Ciência da Computação** pela **Unifeso** e apaixonado por criar interfaces que transformam problemas reais em algo **simples, bonito e divertido de usar**.
 
-Passei mais de **3 anos no suporte técnico da Alterdata Software** 🛠️, o que me deu uma visão prática do que o usuário realmente precisa (e do que realmente quebra na hora H 😅). Hoje busco minha vaga de **estágio, trainee ou entrada em Front-end**, de olho no caminho **Full Stack**.
+Passei mais de **3 anos no suporte técnico da Alterdata Software** 🛠️, o que me deu uma visão prática do que o usuário realmente precisa (e do que realmente quebra na hora H). Hoje busco minha vaga de **estágio, trainee ou entrada em Front-end**, de olho no caminho **Full Stack**.
 
 | | |
 |---|---|
