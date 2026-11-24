@@ -1,5 +1,3 @@
-<!-- ✦ Aha, o Aeon da Euforia — edition ✦ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,55:3B2F7A,100:14122E&height=230&section=header&text=João%20Mateus&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=✦%20Dev%20Front-end%20✦%20rumo%20ao%20Full%20Stack%20✦&descSize=20&descAlignY=62" alt="Cabeçalho" width="100%"/>
