@@ -2,29 +2,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,50:E63950,100:3B2F7A&height=260&section=header&text=GRANDE%20CIRCO&fontSize=68&fontColor=FFFFFF&fontAlignY=36&stroke=14122E&strokeWidth=2&animation=fadeIn&desc=%E2%9C%A6%20do%20Jo%C3%A3o%20Mateus%20%E2%9C%A6%20Front-end%20rumo%20ao%20Full%20Stack%20%E2%9C%A6&descSize=20&descAlignY=60" alt="Grande Circo do João Mateus" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,45:E63950,100:3B2F7A&height=200&section=header&animation=twinkling" alt="" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=E63950&center=true&vCenter=true&width=700&height=50&lines=Senhoras+e+senhores%2C+o+espet%C3%A1culo+vai+come%C3%A7ar!+%F0%9F%8E%AA;Interfaces+que+pedem+aplausos+%F0%9F%91%8F;Front-end+hoje%2C+Full+Stack+amanh%C3%A3+%F0%9F%9A%80;Porque+programar+tamb%C3%A9m+pode+ser+uma+festa+%F0%9F%8E%89" alt="Digitando..." />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=44&duration=3500&pause=1500&color=C8102E&center=true&vCenter=true&width=900&height=80&lines=GRANDE+CIRCO;Jo%C3%A3o+Mateus" alt="Grande Circo" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=3000&pause=1200&color=9D95E6&center=true&vCenter=true&width=800&height=45&lines=Senhoras+e+senhores%2C+o+espet%C3%A1culo+vai+come%C3%A7ar...;Interfaces+que+pedem+aplausos;Front-end+hoje%2C+Full+Stack+amanh%C3%A3;Porque+programar+tamb%C3%A9m+pode+ser+uma+festa" alt="Apresentação" />
+
+<img src="https://komarev.com/ghpvc/?username=jmpinho&label=PLATEIA&color=C8102E&style=for-the-badge" alt="Contador de visitas" />
 
 <br>
 
 <img src="./aha.png" alt="Aha is amazing!" width="210" />
 
 <br>
-
-```text
-                      ★
-                     /|\
-                    / | \
-                   /  |  \
-                  / 🎪    \
-                 /_________\
-                /▓▓░░▓▓░░▓▓░\
-               /▓▓░░▓▓░░▓▓░░▓\
-              /▓▓░░▓▓░░▓▓░░▓▓░\
-             ░░░░░░░░░░░░░░░░░░░░
-             ║  ENTRADA  ║  ♠♥♣♦  ║
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,12,0&height=6&section=header" width="100%" alt="" />
 
@@ -58,9 +48,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,12,0&height=4&section=header" width="100%" alt="" />
 
-## 🎭 Ato I — Quem é o artista?
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=3000&pause=2500&color=E63950&center=true&vCenter=true&width=800&height=50&lines=Ato+I+%C2%B7+Quem+%C3%A9+o+artista%3F" alt="Ato I · Quem é o artista?" /></h2>
 
-> *"A vida é um grande palco, e eu vim pra fazer o código render aplausos!"* 🎉
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=4000&pause=1500&color=9D95E6&center=true&vCenter=true&width=800&height=40&lines=%22A+vida+%C3%A9+um+grande+palco%2C;e+eu+vim+pra+fazer+o+c%C3%B3digo+render+aplausos!%22" alt="Lema" /></div>
 
 Olá! Sou o **João Mateus**, bacharel em **Ciência da Computação** pela **Unifeso** e apaixonado por criar interfaces que transformam problemas reais em algo **simples, bonito e divertido de usar**.
 
@@ -86,7 +76,7 @@ Passei **mais de 3 anos no suporte técnico da Alterdata Software** 🛠️, o q
 
 <br>
 
-## 🎠 Ato II — O camarim de tecnologias
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=3000&pause=2500&color=E63950&center=true&vCenter=true&width=800&height=50&lines=Ato+II+%C2%B7+O+camarim+de+tecnologias" alt="Ato II · O camarim de tecnologias" /></h2>
 
 <div align="center">
 
@@ -110,7 +100,7 @@ Passei **mais de 3 anos no suporte técnico da Alterdata Software** 🛠️, o q
 
 <br>
 
-## 🎪 Ato III — A bagagem do circo
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=3000&pause=2500&color=E63950&center=true&vCenter=true&width=800&height=50&lines=Ato+III+%C2%B7+A+bagagem+do+circo" alt="Ato III · A bagagem do circo" /></h2>
 
 <table>
 <tr>
@@ -143,7 +133,7 @@ Compiladores, desenvolvimento mobile, IA e visão computacional. 🧠
 
 <br>
 
-## 🗺️ Ato IV — O grande roteiro rumo ao Full Stack
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=3000&pause=2500&color=E63950&center=true&vCenter=true&width=800&height=50&lines=Ato+IV+%C2%B7+O+grande+roteiro" alt="Ato IV · O grande roteiro" /></h2>
 
 ```text
   🎪 Front-end ━━━━━━●━━━━━━━━━━━━━●━━━━━━━━━━━━━●━━━━━━━━━━━━━★
@@ -161,7 +151,7 @@ Compiladores, desenvolvimento mobile, IA e visão computacional. 🧠
 
 <br>
 
-## 🃏 Ato V — Números principais (projetos em cartaz)
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=3000&pause=2500&color=E63950&center=true&vCenter=true&width=800&height=50&lines=Ato+V+%C2%B7+N%C3%BAmeros+principais" alt="Ato V · Números principais" /></h2>
 
 <table>
 <tr>
@@ -200,7 +190,7 @@ Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de br
 
 <br>
 
-## 📊 Ato VI — O placar do picadeiro
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=3000&pause=2500&color=E63950&center=true&vCenter=true&width=800&height=50&lines=Ato+VI+%C2%B7+O+placar+do+picadeiro" alt="Ato VI · O placar do picadeiro" /></h2>
 
 <div align="center">
 
@@ -213,13 +203,17 @@ Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de br
 
 <br><br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=jmpinho&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=12" alt="Troféus" width="100%" />
+
+<br><br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmpinho&bg_color=14122E&color=E63950&line=9D95E6&point=FFFFFF&area=true&area_color=3B2F7A&hide_border=true" alt="Gráfico de atividade" width="100%" />
 
 </div>
 
 <br>
 
-## 🎲 Curiosidades do artista
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=3000&pause=2500&color=E63950&center=true&vCenter=true&width=800&height=50&lines=Curiosidades+do+artista" alt="Curiosidades do artista" /></h2>
 
 <details>
 <summary><b>🎴 Puxe uma carta do baralho (clique!)</b></summary>
@@ -237,7 +231,7 @@ Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de br
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,12,0&height=4&section=header" width="100%" alt="" />
 
-## 💌 Ato VII — Bilheteria
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&duration=3000&pause=2500&color=E63950&center=true&vCenter=true&width=800&height=50&lines=Ato+VII+%C2%B7+Bilheteria" alt="Ato VII · Bilheteria" /></h2>
 
 <div align="center">
 
@@ -252,6 +246,6 @@ Tem uma vaga, uma ideia ou só quer trocar uma ideia sobre código? **Bora fazer
 
 <sub>Aha e Honkai: Star Rail © HoYoverse · arte de fã, sem fins comerciais</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2F7A,50:E63950,100:C8102E&height=140&section=footer" alt="Rodapé" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2F7A,50:E63950,100:C8102E&height=140&section=footer&animation=twinkling" alt="Rodapé" width="100%"/>
 
 </div>
