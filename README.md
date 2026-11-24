@@ -1,5 +1,3 @@
-<!-- 🎪 Grande Circo do João — Aha, o Aeon da Euforia — edition 🎪 -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,45:E63950,100:3B2F7A&height=200&section=header&animation=twinkling" alt="" width="100%"/>
@@ -200,10 +198,6 @@ Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de br
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jmpinho&show_icons=true&hide_border=true&bg_color=14122E&title_color=E63950&icon_color=9D95E6&text_color=F2F0FA&ring_color=E63950&border_radius=12" alt="Estatísticas do GitHub" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmpinho&layout=compact&hide_border=true&bg_color=14122E&title_color=E63950&text_color=F2F0FA&border_radius=12" alt="Linguagens mais usadas" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jmpinho&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=12" alt="Troféus" width="100%" />
 
 <br><br>
 
