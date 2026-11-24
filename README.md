@@ -1,8 +1,10 @@
+<!-- 🎪 Grande Circo do João — Aha, o Aeon da Euforia — edition 🎪 -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,55:3B2F7A,100:14122E&height=230&section=header&text=João%20Mateus&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=✦%20Dev%20Front-end%20✦%20rumo%20ao%20Full%20Stack%20✦&descSize=20&descAlignY=62" alt="Cabeçalho" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,50:E63950,100:3B2F7A&height=260&section=header&text=GRANDE%20CIRCO&fontSize=68&fontColor=FFFFFF&fontAlignY=36&stroke=14122E&strokeWidth=2&animation=fadeIn&desc=%E2%9C%A6%20do%20Jo%C3%A3o%20Mateus%20%E2%9C%A6%20Front-end%20rumo%20ao%20Full%20Stack%20%E2%9C%A6&descSize=20&descAlignY=60" alt="Grande Circo do João Mateus" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E63950&center=true&vCenter=true&width=640&height=50&lines=Bem-vindo(a)+ao+meu+palco!+%F0%9F%8E%AD;UI/UX+na+veia+%E2%9C%A8;Front-end+hoje%2C+Full+Stack+amanh%C3%A3+%F0%9F%9A%80;Porque+programar+tamb%C3%A9m+pode+ser+uma+festa+%F0%9F%8E%89" alt="Digitando..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=E63950&center=true&vCenter=true&width=700&height=50&lines=Senhoras+e+senhores%2C+o+espet%C3%A1culo+vai+come%C3%A7ar!+%F0%9F%8E%AA;Interfaces+que+pedem+aplausos+%F0%9F%91%8F;Front-end+hoje%2C+Full+Stack+amanh%C3%A3+%F0%9F%9A%80;Porque+programar+tamb%C3%A9m+pode+ser+uma+festa+%F0%9F%8E%89" alt="Digitando..." />
 
 <br>
 
@@ -10,15 +12,51 @@
 
 <br>
 
-♠️ ♥️ ♣️ ♦️ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; 🎪 &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ♦️ ♣️ ♥️ ♠️
+```text
+                      ★
+                     /|\
+                    / | \
+                   /  |  \
+                  / 🎪    \
+                 /_________\
+                /▓▓░░▓▓░░▓▓░\
+               /▓▓░░▓▓░░▓▓░░▓\
+              /▓▓░░▓▓░░▓▓░░▓▓░\
+             ░░░░░░░░░░░░░░░░░░░░
+             ║  ENTRADA  ║  ♠♥♣♦  ║
+```
 
-<a href="https://joaomateuspinho.vercel.app"><img src="https://img.shields.io/badge/✨_Meu_Portfólio-E63950?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
-<a href="https://linkedin.com/in/joao-mateus-pinho"><img src="https://img.shields.io/badge/💌_LinkedIn-9D95E6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-FFB347?style=for-the-badge&logoColor=white&labelColor=FFB347&color=FFB347" alt="Formação">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,12,0&height=6&section=header" width="100%" alt="" />
+
+<a href="https://joaomateuspinho.vercel.app"><img src="https://img.shields.io/badge/🎟️_Meu_Portfólio-C8102E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+<a href="https://linkedin.com/in/joao-mateus-pinho"><img src="https://img.shields.io/badge/💌_LinkedIn-3B2F7A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-9D95E6?style=for-the-badge&logoColor=white" alt="Formação">
+<img src="https://img.shields.io/badge/📍_Teresópolis_RJ-E63950?style=for-the-badge&logoColor=white" alt="Local">
+<img src="https://img.shields.io/badge/🟢_Aberto_a_vagas-14122E?style=for-the-badge&logoColor=white" alt="Aberto a vagas">
 
 </div>
 
 <br>
+
+<div align="center">
+
+### ♠️ ♥️ ♣️ ♦️ &nbsp; 🎭 &nbsp; **PROGRAMA DO ESPETÁCULO** &nbsp; 🎭 &nbsp; ♦️ ♣️ ♥️ ♠️
+
+| 🎟️ Ato | 🎪 Atração | 🎯 Destaque |
+|:---:|:---|:---|
+| **I** | Quem é o artista? | Apresentação do mestre de cerimônias |
+| **II** | O camarim | Ferramentas e tecnologias |
+| **III** | A bagagem do circo | Experiência e formação |
+| **IV** | O grande roteiro | Caminho rumo ao Full Stack |
+| **V** | Números principais | Projetos em cartaz |
+| **VI** | Placar do picadeiro | Estatísticas do GitHub |
+| **VII** | Bilheteria | Contato |
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,12,0&height=4&section=header" width="100%" alt="" />
 
 ## 🎭 Ato I — Quem é o artista?
 
@@ -26,35 +64,45 @@
 
 Olá! Sou o **João Mateus**, bacharel em **Ciência da Computação** pela **Unifeso** e apaixonado por criar interfaces que transformam problemas reais em algo **simples, bonito e divertido de usar**.
 
-Passei mais de **3 anos no suporte técnico da Alterdata Software** 🛠️, o que me deu uma visão prática do que o usuário realmente precisa (e do que realmente quebra na hora H). Hoje busco minha vaga de **estágio, trainee ou entrada em Front-end**, de olho no caminho **Full Stack**.
-
-| | |
-|---|---|
-| 🎪 **Foco atual** | Aprofundar o front-end e criar sites cada vez mais interativos e inovadores |
-| 🚀 **Meta** | Me tornar um(a) desenvolvedor(a) **Full Stack** |
-| 🎓 **TCC** | **Synapse**, app web de produtividade para estudantes |
-| 🌍 **Idiomas** | Português nativo · Inglês avançado (Cambridge B2 First) |
-| 📍 **Base** | Teresópolis, RJ 🇧🇷 |
-
-<br>
-
-## 🎠 Ato II — Meu camarim de tecnologias
+Passei **mais de 3 anos no suporte técnico da Alterdata Software** 🛠️, o que me deu uma visão prática do que o usuário realmente precisa (e do que realmente quebra na hora H). Hoje busco minha vaga de **estágio, trainee ou entrada em Front-end**, de olho no caminho **Full Stack**.
 
 <div align="center">
 
-**✨ No palco agora ✨**
+```text
+╔═══════════════════════════════════════════════════════╗
+║  🎟️  I N G R E S S O   V Í T A L I C I O   🎟️          ║
+╠═══════════════════════════════════════════════════════╣
+║  ARTISTA ........ João Mateus Pinho da Silva          ║
+║  NÚMERO ......... Front-end (React · JS · CSS)        ║
+║  FORMAÇÃO ....... Ciência da Computação · Unifeso     ║
+║  PALCO .......... Teresópolis, RJ 🇧🇷                  ║
+║  IDIOMAS ........ Português · Inglês B2 (Cambridge)   ║
+║  PRÓXIMO ATO .... Full Stack                          ║
+║  STATUS ......... 🟢 Aberto a oportunidades            ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+## 🎠 Ato II — O camarim de tecnologias
+
+<div align="center">
+
+**🔴 Em cartaz agora**
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vite,firebase,figma,vscode&theme=dark" alt="Stack atual" />
 
 <br><br>
 
-**🌙 Nos bastidores (já experimentei)**
+**🟣 Nos bastidores (já experimentei)**
 
 <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,sqlite,opencv&theme=dark" alt="Também já usei" />
 
 <br><br>
 
-**🎯 Próximos números do espetáculo (rumo ao Full Stack)**
+**🎯 Próximos números do espetáculo**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,ts,docker&theme=dark" alt="Próximos passos" />
 
@@ -62,12 +110,45 @@ Passei mais de **3 anos no suporte técnico da Alterdata Software** 🛠️, o q
 
 <br>
 
-## 🗺️ Ato III — Roteiro rumo ao Full Stack
+## 🎪 Ato III — A bagagem do circo
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Palco de trabalho
+**Alterdata Software**
+
+- 🎭 **Analista de Suporte Immobile**
+  <br>*nov/2024 → out/2026*
+- 🎭 **Suporte técnico de instalação e acesso**
+  <br>*jul/2023 → nov/2024*
+
+Mais de 3 anos resolvendo problemas reais de usuários reais, com comunicação clara e paciência de domador. 🦁
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Escola de artistas
+**Unifeso** · Bacharelado em Ciência da Computação
+<br>*2023 → 2026*
+
+Compiladores, desenvolvimento mobile, IA e visão computacional. 🧠
+
+**🌍 Cambridge B2 First** · 2023
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🗺️ Ato IV — O grande roteiro rumo ao Full Stack
 
 ```text
-  Front-end ━━━━━━━━●━━━━━━━━━━━━━━●━━━━━━━━━━━━━━●━━━━━━━━━━━━━━★
-  (React, JS, CSS)   Dados na nuvem   API própria      Full Stack!
-        ✅               ✅              🔜               🎯
+  🎪 Front-end ━━━━━━●━━━━━━━━━━━━━●━━━━━━━━━━━━━●━━━━━━━━━━━━━★
+   (React, JS, CSS)   Dados na nuvem   API própria      Full Stack!
+         ✅               ✅              🔜               🎯
 ```
 
 - [x] 🎨 **Front-end sólido**: React, JavaScript, HTML5, CSS3, Git
@@ -80,16 +161,16 @@ Passei mais de **3 anos no suporte técnico da Alterdata Software** 🛠️, o q
 
 <br>
 
-## 🃏 Ato IV — Minhas cartas na manga (projetos)
+## 🃏 Ato V — Números principais (projetos em cartaz)
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
 ### ♠️ [Synapse](https://github.com/jmpinho/Synapse)
-**TCC · App de produtividade**
+**⭐ O GRANDE FINAL · TCC**
 
-Pomodoro, Kanban, Matriz de Eisenhower, progresso e cronograma em calendário mensal. Tudo pensado para organizar a vida de quem estuda. 📚
+App de produtividade para estudantes: Pomodoro, Kanban, Matriz de Eisenhower, progresso e cronograma em calendário mensal. 📚
 
 `React` `Vite` `Firebase` `CSS3`
 
@@ -97,9 +178,9 @@ Pomodoro, Kanban, Matriz de Eisenhower, progresso e cronograma em calendário me
 <td width="33%" valign="top" align="center">
 
 ### ♥️ [Chá Lua de Jade](https://github.com/jmpinho/cha-lua-de-jade)
-**Loja virtual de chás orientais**
+**🍵 A TENDA DOS CHÁS**
 
-E-commerce com estética inspirada na China, rotas com React Router e API REST simulada. 🍵
+Loja virtual de chás orientais com estética inspirada na China, rotas com React Router e API REST simulada.
 
 `React` `React Router` `JavaScript` `json-server`
 
@@ -107,9 +188,9 @@ E-commerce com estética inspirada na China, rotas com React Router e API REST s
 <td width="33%" valign="top" align="center">
 
 ### ♦️ [Portfólio](https://joaomateuspinho.vercel.app)
-**Meu palco na web**
+**🎭 O PALCO PRINCIPAL**
 
-Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de brilho e personalidade! 🎭
+Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de brilho e personalidade!
 
 `React` `CSS3` `Vercel`
 
@@ -119,32 +200,58 @@ Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de br
 
 <br>
 
-## 📊 Ato V — Os números do espetáculo
+## 📊 Ato VI — O placar do picadeiro
 
 <div align="center">
-<br>
 
-<img src="https://streak-stats.demolab.com?user=jmpinho&background=14122E&ring=E63950&fire=FFB347&currStreakNum=F2F0FA&sideNums=F2F0FA&currStreakLabel=E63950&sideLabels=9D95E6&dates=9D95E6&stroke=9D95E6&border=9D95E6" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=jmpinho&background=14122E&ring=E63950&fire=FFB347&currStreakNum=F2F0FA&sideNums=F2F0FA&currStreakLabel=E63950&sideLabels=9D95E6&dates=9D95E6&stroke=9D95E6&border=3B2F7A" alt="Sequência de contribuições" />
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jmpinho&show_icons=true&hide_border=true&bg_color=14122E&title_color=E63950&icon_color=9D95E6&text_color=F2F0FA&ring_color=E63950&border_radius=12" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmpinho&layout=compact&hide_border=true&bg_color=14122E&title_color=E63950&text_color=F2F0FA&border_radius=12" alt="Linguagens mais usadas" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jmpinho&bg_color=14122E&color=E63950&line=9D95E6&point=FFFFFF&area=true&area_color=3B2F7A&hide_border=true" alt="Gráfico de atividade" width="100%" />
 
 </div>
 
 <br>
 
-## 💌 Vamos conversar?
+## 🎲 Curiosidades do artista
+
+<details>
+<summary><b>🎴 Puxe uma carta do baralho (clique!)</b></summary>
+
+<br>
+
+- ♠️ Já resolvi tanto problema no suporte que hoje o bug me procura antes de eu procurar ele.
+- ♥️ Fã de **Honkai: Star Rail**, e a Aha é minha musa de interface. 🎭
+- ♣️ Acredito que uma boa UI é aquela que o usuário nem percebe, e que ainda assim dá vontade de aplaudir.
+- ♦️ Sempre aprendendo: o próximo número do espetáculo já está em ensaio. 🚀
+
+</details>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,12,0&height=4&section=header" width="100%" alt="" />
+
+## 💌 Ato VII — Bilheteria
 
 <div align="center">
 
 Tem uma vaga, uma ideia ou só quer trocar uma ideia sobre código? **Bora fazer esse espetáculo juntos!** 🎪
 
-<a href="https://linkedin.com/in/joao-mateus-pinho"><img src="https://img.shields.io/badge/Falar_comigo_no_LinkedIn-E63950?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://joaomateuspinho.vercel.app"><img src="https://img.shields.io/badge/Ver_portfólio-9D95E6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+<a href="https://linkedin.com/in/joao-mateus-pinho"><img src="https://img.shields.io/badge/🎟️_Falar_comigo_no_LinkedIn-C8102E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://joaomateuspinho.vercel.app"><img src="https://img.shields.io/badge/🎭_Ver_portfólio-3B2F7A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
 
 <br>
 
-*✦ Que a euforia nunca saia do seu código! ✦*
+*♠️ ♥️ ✦ Que a euforia nunca saia do seu código! ✦ ♣️ ♦️*
 
 <sub>Aha e Honkai: Star Rail © HoYoverse · arte de fã, sem fins comerciais</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14122E,50:3B2F7A,100:C8102E&height=130&section=footer" alt="Rodapé" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2F7A,50:E63950,100:C8102E&height=140&section=footer" alt="Rodapé" width="100%"/>
 
 </div>
