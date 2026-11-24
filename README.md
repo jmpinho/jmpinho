@@ -1,26 +1,30 @@
+<!-- 🎪 Grande Circo do João — Aha, o Aeon da Euforia — edition 🎪 -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,45:E63950,100:3B2F7A&height=200&section=header&animation=twinkling" alt="" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=44&duration=3500&pause=1500&color=C8102E&center=true&vCenter=true&width=900&height=80&lines=GRANDE+CIRCO;Jo%C3%A3o+Mateus" alt="Grande Circo" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=44&duration=3500&pause=1500&color=C8102E&center=true&vCenter=true&width=900&height=80&lines=GRANDE+CIRCO;Jo%C3%A3o+Mateus" alt="Grande Circo" /></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=3000&pause=1200&color=9D95E6&center=true&vCenter=true&width=800&height=45&lines=Senhoras+e+senhores%2C+o+espet%C3%A1culo+vai+come%C3%A7ar...;Interfaces+que+pedem+aplausos;Front-end+hoje%2C+Full+Stack+amanh%C3%A3;Porque+programar+tamb%C3%A9m+pode+ser+uma+festa" alt="Apresentação" />
-
-<img src="https://komarev.com/ghpvc/?username=jmpinho&label=PLATEIA&color=C8102E&style=for-the-badge" alt="Contador de visitas" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=3000&pause=1200&color=9D95E6&center=true&vCenter=true&width=800&height=45&lines=Senhoras+e+senhores%2C+o+espet%C3%A1culo+vai+come%C3%A7ar...;Interfaces+que+pedem+aplausos;Front-end+hoje%2C+Full+Stack+amanh%C3%A3;Porque+programar+tamb%C3%A9m+pode+ser+uma+festa" alt="Apresentação" /></p>
 
 <br>
 
-<img src="./aha.png" alt="Aha is amazing!" width="210" />
+<p align="center"><img src="./aha.png" alt="Aha is amazing!" width="210" /></p>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,12,0&height=6&section=header" width="100%" alt="" />
 
+<p align="center">
 <a href="https://joaomateuspinho.vercel.app"><img src="https://img.shields.io/badge/🎟️_Meu_Portfólio-C8102E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
 <a href="https://linkedin.com/in/joao-mateus-pinho"><img src="https://img.shields.io/badge/💌_LinkedIn-3B2F7A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-9D95E6?style=for-the-badge&logoColor=white" alt="Formação">
 <img src="https://img.shields.io/badge/📍_Teresópolis_RJ-E63950?style=for-the-badge&logoColor=white" alt="Local">
 <img src="https://img.shields.io/badge/🟢_Aberto_a_vagas-14122E?style=for-the-badge&logoColor=white" alt="Aberto a vagas">
+<br>
+<img src="https://komarev.com/ghpvc/?username=jmpinho&label=PLATEIA&color=C8102E&style=for-the-badge" alt="Contador de visitas" />
+</p>
 
 </div>
 
@@ -198,6 +202,10 @@ Portfólio em React com tema inspirado na Aha, de Honkai: Star Rail. Cheio de br
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jmpinho&show_icons=true&hide_border=true&bg_color=14122E&title_color=E63950&icon_color=9D95E6&text_color=F2F0FA&ring_color=E63950&border_radius=12" alt="Estatísticas do GitHub" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmpinho&layout=compact&hide_border=true&bg_color=14122E&title_color=E63950&text_color=F2F0FA&border_radius=12" alt="Linguagens mais usadas" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jmpinho&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=12" alt="Troféus" width="100%" />
 
 <br><br>
 
